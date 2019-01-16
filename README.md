@@ -6,4 +6,4 @@ of length l we can enumerate l − k + 1 k-mers. For instance, if we consider dn
 can enumerate the following 3-mers: [ACT,CTT,TTG,TGA,GAC,ACT,CTT].
 
 To know more about the assignment look at A1 pdf.
-The hint within the A1 pdf show a brief version of the logic in the A1.cpp.
+The hint within the A1 pdf shows a brief version of the logic in the A1.cpp.
