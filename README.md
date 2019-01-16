@@ -5,4 +5,4 @@ sequence as a string of four letters: [A,C,G,T]. A k-mer of size k is a substrin
 of length l we can enumerate l − k + 1 k-mers. For instance, if we consider dna_seq and pick k = 3 we
 can enumerate the following 3-mers: [ACT,CTT,TTG,TGA,GAC,ACT,CTT].
 
-To know more about the assignment look at kmer_counting pdf.
+To know more about the assignment look at A1 pdf.
