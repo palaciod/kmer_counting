@@ -22,8 +22,8 @@ int convertChar2Int(char c){
 /*
 * This method returns a string representation of the integer value in base4. We convert by
 * iterating through the string and then computing 4 to the power of k-1 and then converting the
-* base.at(i) char to an int and multiplying that by the result of 4^k-1. We then add it
-* the result of base10 to base10.The result is the final base10.
+* base.at(i) char to an int and multiplying that by the result of 4^k-1. We then add it to
+* the result of base10 to base10. The result of base10is the final base10.
 * When we encounter the char N, we initialize the local int variable (base10) to -1. We then automatically
 * break the for loop and return base10 as -1.
 * @return - We return the base 10 value that was converted from base 4.
