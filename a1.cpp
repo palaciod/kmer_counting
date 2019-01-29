@@ -61,7 +61,7 @@ int base4ToBase10(string base4, int k){
  The conversion will be taken care of witing the function base4ToBase10. While converting we will
  get a substring of the line sequence of size k. The position of the substring will increment by one (int count)
  until the end of the line. Once the final conversion to base10 from the function base4ToBase10 we will
- increment the int value within the array at position int count. <- See line 98.
+ increment the int value within the array at position int count. <- 
 */
 int main(int argc, char const *argv[]) {
   //argc is the size of the arguments l
